@@ -10,7 +10,8 @@
     "e2e": "ng e2e",
     "storybook": "start-storybook -p 6006 --ci",
     "build-storybook": "build-storybook",
-    "jest": "jest --watch"
+    "jest": "jest --watch",
+    "runprod":"serve storybook-static"
   },
   "private": true,
   "jest": {
