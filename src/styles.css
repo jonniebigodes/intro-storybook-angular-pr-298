@@ -3,10 +3,14 @@
  * Props to Eric Meyer (meyerweb.com) for his CSS reset file. We're using an adapted version here	that cuts out some of the reset HTML elements we will never need here (i.e., dfn, samp, etc).
  * ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- */
  @import url('https://fonts.googleapis.com/css?family=Nunito+Sans:400,400i,800');
+ @import url('https://fonts.googleapis.com/icon?family=Material+Icons');
  html,
  body {
    margin: 0;
    padding: 0;
+   height: 100%;
+   margin: 0; 
+   font-family: Roboto, "Helvetica Neue", sans-serif;
  }
  h1,
  h2,
@@ -997,3 +1001,17 @@
    vertical-align: top;
    max-width: 100%;
  }
+
+example-button-row button,
+.example-button-row a {
+  margin-right: 8px;
+}
+
+.open-close-container {
+  border: 1px solid #dddddd;
+  margin-top: 1em;
+  padding: 20px 20px 0px 20px;
+  color: #000000;
+  font-weight: bold;
+  font-size: 20px;
+}

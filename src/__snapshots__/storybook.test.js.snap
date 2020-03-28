@@ -1,5 +1,1086 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
+exports[`Storyshots Another Select Default 1`] = `
+<storybook-dynamic-app-root
+  cfr={[Function CodegenComponentFactoryResolver]}
+  data={[Function Object]}
+  target={[Function ViewContainerRef_]}
+>
+  <app-another-select>
+    <div
+      class="list-item"
+    >
+      <input
+        readonly="true"
+        type="text"
+      />
+    </div>
+  </app-another-select>
+</storybook-dynamic-app-root>
+`;
+
+exports[`Storyshots AwesomeSelect Default 1`] = `
+<storybook-dynamic-app-root
+  cfr={[Function CodegenComponentFactoryResolver]}
+  data={[Function Object]}
+  target={[Function ViewContainerRef_]}
+>
+  <app-awesome-select>
+    <div
+      class="list-item"
+    >
+      <input
+        readonly="true"
+        type="text"
+      />
+    </div>
+  </app-awesome-select>
+</storybook-dynamic-app-root>
+`;
+
+exports[`Storyshots My Buttons Default 1`] = `
+<storybook-dynamic-app-root
+  cfr={[Function CodegenComponentFactoryResolver]}
+  data={[Function Object]}
+  target={[Function ViewContainerRef_]}
+>
+  <app-awesome-buttons>
+    <h3>
+      Basic Buttons
+    </h3>
+    <div
+      class="example-button-row"
+    >
+      <button
+        class="mat-focus-indicator mat-button mat-button-base"
+        mat-button=""
+      >
+        <span
+          class="mat-button-wrapper"
+        >
+          Basic
+        </span>
+        <div
+          class="mat-button-ripple mat-ripple"
+          matripple=""
+          ng-reflect-centered="false"
+          ng-reflect-disabled="false"
+          ng-reflect-trigger="[object HTMLButtonElement]"
+        />
+        <div
+          class="mat-button-focus-overlay"
+        />
+      </button>
+      <button
+        class="mat-focus-indicator mat-button mat-button-base mat-primary"
+        color="primary"
+        mat-button=""
+        ng-reflect-color="primary"
+      >
+        <span
+          class="mat-button-wrapper"
+        >
+          Primary
+        </span>
+        <div
+          class="mat-button-ripple mat-ripple"
+          matripple=""
+          ng-reflect-centered="false"
+          ng-reflect-disabled="false"
+          ng-reflect-trigger="[object HTMLButtonElement]"
+        />
+        <div
+          class="mat-button-focus-overlay"
+        />
+      </button>
+      <button
+        class="mat-focus-indicator mat-button mat-button-base mat-accent"
+        color="accent"
+        mat-button=""
+        ng-reflect-color="accent"
+      >
+        <span
+          class="mat-button-wrapper"
+        >
+          Accent
+        </span>
+        <div
+          class="mat-button-ripple mat-ripple"
+          matripple=""
+          ng-reflect-centered="false"
+          ng-reflect-disabled="false"
+          ng-reflect-trigger="[object HTMLButtonElement]"
+        />
+        <div
+          class="mat-button-focus-overlay"
+        />
+      </button>
+      <button
+        class="mat-focus-indicator mat-button mat-button-base mat-warn"
+        color="warn"
+        mat-button=""
+        ng-reflect-color="warn"
+      >
+        <span
+          class="mat-button-wrapper"
+        >
+          Warn
+        </span>
+        <div
+          class="mat-button-ripple mat-ripple"
+          matripple=""
+          ng-reflect-centered="false"
+          ng-reflect-disabled="false"
+          ng-reflect-trigger="[object HTMLButtonElement]"
+        />
+        <div
+          class="mat-button-focus-overlay"
+        />
+      </button>
+      <button
+        class="mat-focus-indicator mat-button mat-button-base"
+        disabled="true"
+        mat-button=""
+        ng-reflect-disabled=""
+      >
+        <span
+          class="mat-button-wrapper"
+        >
+          Disabled
+        </span>
+        <div
+          class="mat-button-ripple mat-ripple"
+          matripple=""
+          ng-reflect-centered="false"
+          ng-reflect-disabled="true"
+          ng-reflect-trigger="[object HTMLButtonElement]"
+        />
+        <div
+          class="mat-button-focus-overlay"
+        />
+      </button>
+      <a
+        aria-disabled="false"
+        class="mat-focus-indicator mat-button mat-button-base"
+        mat-button=""
+        routerlink="."
+        tabindex="0"
+      >
+        <span
+          class="mat-button-wrapper"
+        >
+          Link
+        </span>
+        <div
+          class="mat-button-ripple mat-ripple"
+          matripple=""
+          ng-reflect-centered="false"
+          ng-reflect-disabled="false"
+          ng-reflect-trigger=""
+        />
+        <div
+          class="mat-button-focus-overlay"
+        />
+      </a>
+    </div>
+    <h3>
+      Raised Buttons
+    </h3>
+    <div
+      class="example-button-row"
+    >
+      <button
+        class="mat-focus-indicator mat-raised-button mat-button-base"
+        mat-raised-button=""
+      >
+        <span
+          class="mat-button-wrapper"
+        >
+          Basic
+        </span>
+        <div
+          class="mat-button-ripple mat-ripple"
+          matripple=""
+          ng-reflect-centered="false"
+          ng-reflect-disabled="false"
+          ng-reflect-trigger="[object HTMLButtonElement]"
+        />
+        <div
+          class="mat-button-focus-overlay"
+        />
+      </button>
+      <button
+        class="mat-focus-indicator mat-raised-button mat-button-base mat-primary"
+        color="primary"
+        mat-raised-button=""
+        ng-reflect-color="primary"
+      >
+        <span
+          class="mat-button-wrapper"
+        >
+          Primary
+        </span>
+        <div
+          class="mat-button-ripple mat-ripple"
+          matripple=""
+          ng-reflect-centered="false"
+          ng-reflect-disabled="false"
+          ng-reflect-trigger="[object HTMLButtonElement]"
+        />
+        <div
+          class="mat-button-focus-overlay"
+        />
+      </button>
+      <button
+        class="mat-focus-indicator mat-raised-button mat-button-base mat-accent"
+        color="accent"
+        mat-raised-button=""
+        ng-reflect-color="accent"
+      >
+        <span
+          class="mat-button-wrapper"
+        >
+          Accent
+        </span>
+        <div
+          class="mat-button-ripple mat-ripple"
+          matripple=""
+          ng-reflect-centered="false"
+          ng-reflect-disabled="false"
+          ng-reflect-trigger="[object HTMLButtonElement]"
+        />
+        <div
+          class="mat-button-focus-overlay"
+        />
+      </button>
+      <button
+        class="mat-focus-indicator mat-raised-button mat-button-base mat-warn"
+        color="warn"
+        mat-raised-button=""
+        ng-reflect-color="warn"
+      >
+        <span
+          class="mat-button-wrapper"
+        >
+          Warn
+        </span>
+        <div
+          class="mat-button-ripple mat-ripple"
+          matripple=""
+          ng-reflect-centered="false"
+          ng-reflect-disabled="false"
+          ng-reflect-trigger="[object HTMLButtonElement]"
+        />
+        <div
+          class="mat-button-focus-overlay"
+        />
+      </button>
+      <button
+        class="mat-focus-indicator mat-raised-button mat-button-base"
+        disabled="true"
+        mat-raised-button=""
+        ng-reflect-disabled=""
+      >
+        <span
+          class="mat-button-wrapper"
+        >
+          Disabled
+        </span>
+        <div
+          class="mat-button-ripple mat-ripple"
+          matripple=""
+          ng-reflect-centered="false"
+          ng-reflect-disabled="true"
+          ng-reflect-trigger="[object HTMLButtonElement]"
+        />
+        <div
+          class="mat-button-focus-overlay"
+        />
+      </button>
+      <a
+        aria-disabled="false"
+        class="mat-focus-indicator mat-raised-button mat-button-base"
+        mat-raised-button=""
+        routerlink="."
+        tabindex="0"
+      >
+        <span
+          class="mat-button-wrapper"
+        >
+          Link
+        </span>
+        <div
+          class="mat-button-ripple mat-ripple"
+          matripple=""
+          ng-reflect-centered="false"
+          ng-reflect-disabled="false"
+          ng-reflect-trigger=""
+        />
+        <div
+          class="mat-button-focus-overlay"
+        />
+      </a>
+    </div>
+    <h3>
+      Stroked Buttons
+    </h3>
+    <div
+      class="example-button-row"
+    >
+      <button
+        class="mat-focus-indicator mat-stroked-button mat-button-base"
+        mat-stroked-button=""
+      >
+        <span
+          class="mat-button-wrapper"
+        >
+          Basic
+        </span>
+        <div
+          class="mat-button-ripple mat-ripple"
+          matripple=""
+          ng-reflect-centered="false"
+          ng-reflect-disabled="false"
+          ng-reflect-trigger="[object HTMLButtonElement]"
+        />
+        <div
+          class="mat-button-focus-overlay"
+        />
+      </button>
+      <button
+        class="mat-focus-indicator mat-stroked-button mat-button-base mat-primary"
+        color="primary"
+        mat-stroked-button=""
+        ng-reflect-color="primary"
+      >
+        <span
+          class="mat-button-wrapper"
+        >
+          Primary
+        </span>
+        <div
+          class="mat-button-ripple mat-ripple"
+          matripple=""
+          ng-reflect-centered="false"
+          ng-reflect-disabled="false"
+          ng-reflect-trigger="[object HTMLButtonElement]"
+        />
+        <div
+          class="mat-button-focus-overlay"
+        />
+      </button>
+      <button
+        class="mat-focus-indicator mat-stroked-button mat-button-base mat-accent"
+        color="accent"
+        mat-stroked-button=""
+        ng-reflect-color="accent"
+      >
+        <span
+          class="mat-button-wrapper"
+        >
+          Accent
+        </span>
+        <div
+          class="mat-button-ripple mat-ripple"
+          matripple=""
+          ng-reflect-centered="false"
+          ng-reflect-disabled="false"
+          ng-reflect-trigger="[object HTMLButtonElement]"
+        />
+        <div
+          class="mat-button-focus-overlay"
+        />
+      </button>
+      <button
+        class="mat-focus-indicator mat-stroked-button mat-button-base mat-warn"
+        color="warn"
+        mat-stroked-button=""
+        ng-reflect-color="warn"
+      >
+        <span
+          class="mat-button-wrapper"
+        >
+          Warn
+        </span>
+        <div
+          class="mat-button-ripple mat-ripple"
+          matripple=""
+          ng-reflect-centered="false"
+          ng-reflect-disabled="false"
+          ng-reflect-trigger="[object HTMLButtonElement]"
+        />
+        <div
+          class="mat-button-focus-overlay"
+        />
+      </button>
+      <button
+        class="mat-focus-indicator mat-stroked-button mat-button-base"
+        disabled="true"
+        mat-stroked-button=""
+        ng-reflect-disabled=""
+      >
+        <span
+          class="mat-button-wrapper"
+        >
+          Disabled
+        </span>
+        <div
+          class="mat-button-ripple mat-ripple"
+          matripple=""
+          ng-reflect-centered="false"
+          ng-reflect-disabled="true"
+          ng-reflect-trigger="[object HTMLButtonElement]"
+        />
+        <div
+          class="mat-button-focus-overlay"
+        />
+      </button>
+      <a
+        aria-disabled="false"
+        class="mat-focus-indicator mat-stroked-button mat-button-base"
+        mat-stroked-button=""
+        routerlink="."
+        tabindex="0"
+      >
+        <span
+          class="mat-button-wrapper"
+        >
+          Link
+        </span>
+        <div
+          class="mat-button-ripple mat-ripple"
+          matripple=""
+          ng-reflect-centered="false"
+          ng-reflect-disabled="false"
+          ng-reflect-trigger=""
+        />
+        <div
+          class="mat-button-focus-overlay"
+        />
+      </a>
+    </div>
+    <h3>
+      Flat Buttons
+    </h3>
+    <div
+      class="example-button-row"
+    >
+      <button
+        class="mat-focus-indicator mat-flat-button mat-button-base"
+        mat-flat-button=""
+      >
+        <span
+          class="mat-button-wrapper"
+        >
+          Basic
+        </span>
+        <div
+          class="mat-button-ripple mat-ripple"
+          matripple=""
+          ng-reflect-centered="false"
+          ng-reflect-disabled="false"
+          ng-reflect-trigger="[object HTMLButtonElement]"
+        />
+        <div
+          class="mat-button-focus-overlay"
+        />
+      </button>
+      <button
+        class="mat-focus-indicator mat-flat-button mat-button-base mat-primary"
+        color="primary"
+        mat-flat-button=""
+        ng-reflect-color="primary"
+      >
+        <span
+          class="mat-button-wrapper"
+        >
+          Primary
+        </span>
+        <div
+          class="mat-button-ripple mat-ripple"
+          matripple=""
+          ng-reflect-centered="false"
+          ng-reflect-disabled="false"
+          ng-reflect-trigger="[object HTMLButtonElement]"
+        />
+        <div
+          class="mat-button-focus-overlay"
+        />
+      </button>
+      <button
+        class="mat-focus-indicator mat-flat-button mat-button-base mat-accent"
+        color="accent"
+        mat-flat-button=""
+        ng-reflect-color="accent"
+      >
+        <span
+          class="mat-button-wrapper"
+        >
+          Accent
+        </span>
+        <div
+          class="mat-button-ripple mat-ripple"
+          matripple=""
+          ng-reflect-centered="false"
+          ng-reflect-disabled="false"
+          ng-reflect-trigger="[object HTMLButtonElement]"
+        />
+        <div
+          class="mat-button-focus-overlay"
+        />
+      </button>
+      <button
+        class="mat-focus-indicator mat-flat-button mat-button-base mat-warn"
+        color="warn"
+        mat-flat-button=""
+        ng-reflect-color="warn"
+      >
+        <span
+          class="mat-button-wrapper"
+        >
+          Warn
+        </span>
+        <div
+          class="mat-button-ripple mat-ripple"
+          matripple=""
+          ng-reflect-centered="false"
+          ng-reflect-disabled="false"
+          ng-reflect-trigger="[object HTMLButtonElement]"
+        />
+        <div
+          class="mat-button-focus-overlay"
+        />
+      </button>
+      <button
+        class="mat-focus-indicator mat-flat-button mat-button-base"
+        disabled="true"
+        mat-flat-button=""
+        ng-reflect-disabled=""
+      >
+        <span
+          class="mat-button-wrapper"
+        >
+          Disabled
+        </span>
+        <div
+          class="mat-button-ripple mat-ripple"
+          matripple=""
+          ng-reflect-centered="false"
+          ng-reflect-disabled="true"
+          ng-reflect-trigger="[object HTMLButtonElement]"
+        />
+        <div
+          class="mat-button-focus-overlay"
+        />
+      </button>
+      <a
+        aria-disabled="false"
+        class="mat-focus-indicator mat-flat-button mat-button-base"
+        mat-flat-button=""
+        routerlink="."
+        tabindex="0"
+      >
+        <span
+          class="mat-button-wrapper"
+        >
+          Link
+        </span>
+        <div
+          class="mat-button-ripple mat-ripple"
+          matripple=""
+          ng-reflect-centered="false"
+          ng-reflect-disabled="false"
+          ng-reflect-trigger=""
+        />
+        <div
+          class="mat-button-focus-overlay"
+        />
+      </a>
+    </div>
+    <h3>
+      Icon Buttons
+    </h3>
+    <div
+      class="example-button-row"
+    >
+      <button
+        aria-label="Example icon-button with a heart icon"
+        class="mat-focus-indicator mat-icon-button mat-button-base"
+        mat-icon-button=""
+      >
+        <span
+          class="mat-button-wrapper"
+        >
+          <mat-icon
+            aria-hidden="true"
+            class="mat-icon notranslate material-icons mat-icon-no-color"
+            role="img"
+          >
+            favorite
+          </mat-icon>
+        </span>
+        <div
+          class="mat-button-ripple mat-ripple mat-button-ripple-round"
+          matripple=""
+          ng-reflect-centered="true"
+          ng-reflect-disabled="false"
+          ng-reflect-trigger="[object HTMLButtonElement]"
+        />
+        <div
+          class="mat-button-focus-overlay"
+        />
+      </button>
+      <button
+        aria-label="Example icon-button with a heart icon"
+        class="mat-focus-indicator mat-icon-button mat-button-base mat-primary"
+        color="primary"
+        mat-icon-button=""
+        ng-reflect-color="primary"
+      >
+        <span
+          class="mat-button-wrapper"
+        >
+          <mat-icon
+            aria-hidden="true"
+            class="mat-icon notranslate material-icons mat-icon-no-color"
+            role="img"
+          >
+            favorite
+          </mat-icon>
+        </span>
+        <div
+          class="mat-button-ripple mat-ripple mat-button-ripple-round"
+          matripple=""
+          ng-reflect-centered="true"
+          ng-reflect-disabled="false"
+          ng-reflect-trigger="[object HTMLButtonElement]"
+        />
+        <div
+          class="mat-button-focus-overlay"
+        />
+      </button>
+      <button
+        aria-label="Example icon-button with a heart icon"
+        class="mat-focus-indicator mat-icon-button mat-button-base mat-accent"
+        color="accent"
+        mat-icon-button=""
+        ng-reflect-color="accent"
+      >
+        <span
+          class="mat-button-wrapper"
+        >
+          <mat-icon
+            aria-hidden="true"
+            class="mat-icon notranslate material-icons mat-icon-no-color"
+            role="img"
+          >
+            favorite
+          </mat-icon>
+        </span>
+        <div
+          class="mat-button-ripple mat-ripple mat-button-ripple-round"
+          matripple=""
+          ng-reflect-centered="true"
+          ng-reflect-disabled="false"
+          ng-reflect-trigger="[object HTMLButtonElement]"
+        />
+        <div
+          class="mat-button-focus-overlay"
+        />
+      </button>
+      <button
+        aria-label="Example icon-button with a heart icon"
+        class="mat-focus-indicator mat-icon-button mat-button-base mat-warn"
+        color="warn"
+        mat-icon-button=""
+        ng-reflect-color="warn"
+      >
+        <span
+          class="mat-button-wrapper"
+        >
+          <mat-icon
+            aria-hidden="true"
+            class="mat-icon notranslate material-icons mat-icon-no-color"
+            role="img"
+          >
+            favorite
+          </mat-icon>
+        </span>
+        <div
+          class="mat-button-ripple mat-ripple mat-button-ripple-round"
+          matripple=""
+          ng-reflect-centered="true"
+          ng-reflect-disabled="false"
+          ng-reflect-trigger="[object HTMLButtonElement]"
+        />
+        <div
+          class="mat-button-focus-overlay"
+        />
+      </button>
+      <button
+        aria-label="Example icon-button with a heart icon"
+        class="mat-focus-indicator mat-icon-button mat-button-base"
+        disabled="true"
+        mat-icon-button=""
+        ng-reflect-disabled=""
+      >
+        <span
+          class="mat-button-wrapper"
+        >
+          <mat-icon
+            aria-hidden="true"
+            class="mat-icon notranslate material-icons mat-icon-no-color"
+            role="img"
+          >
+            favorite
+          </mat-icon>
+        </span>
+        <div
+          class="mat-button-ripple mat-ripple mat-button-ripple-round"
+          matripple=""
+          ng-reflect-centered="true"
+          ng-reflect-disabled="true"
+          ng-reflect-trigger="[object HTMLButtonElement]"
+        />
+        <div
+          class="mat-button-focus-overlay"
+        />
+      </button>
+    </div>
+    <h3>
+      Fab Buttons
+    </h3>
+    <div
+      class="example-button-row"
+    >
+      <button
+        class="mat-focus-indicator mat-fab mat-button-base mat-accent"
+        mat-fab=""
+      >
+        <span
+          class="mat-button-wrapper"
+        >
+          Basic
+        </span>
+        <div
+          class="mat-button-ripple mat-ripple mat-button-ripple-round"
+          matripple=""
+          ng-reflect-centered="false"
+          ng-reflect-disabled="false"
+          ng-reflect-trigger="[object HTMLButtonElement]"
+        />
+        <div
+          class="mat-button-focus-overlay"
+        />
+      </button>
+      <button
+        class="mat-focus-indicator mat-fab mat-button-base mat-primary"
+        color="primary"
+        mat-fab=""
+        ng-reflect-color="primary"
+      >
+        <span
+          class="mat-button-wrapper"
+        >
+          Primary
+        </span>
+        <div
+          class="mat-button-ripple mat-ripple mat-button-ripple-round"
+          matripple=""
+          ng-reflect-centered="false"
+          ng-reflect-disabled="false"
+          ng-reflect-trigger="[object HTMLButtonElement]"
+        />
+        <div
+          class="mat-button-focus-overlay"
+        />
+      </button>
+      <button
+        class="mat-focus-indicator mat-fab mat-button-base mat-accent"
+        color="accent"
+        mat-fab=""
+        ng-reflect-color="accent"
+      >
+        <span
+          class="mat-button-wrapper"
+        >
+          Accent
+        </span>
+        <div
+          class="mat-button-ripple mat-ripple mat-button-ripple-round"
+          matripple=""
+          ng-reflect-centered="false"
+          ng-reflect-disabled="false"
+          ng-reflect-trigger="[object HTMLButtonElement]"
+        />
+        <div
+          class="mat-button-focus-overlay"
+        />
+      </button>
+      <button
+        class="mat-focus-indicator mat-fab mat-button-base mat-warn"
+        color="warn"
+        mat-fab=""
+        ng-reflect-color="warn"
+      >
+        <span
+          class="mat-button-wrapper"
+        >
+          Warn
+        </span>
+        <div
+          class="mat-button-ripple mat-ripple mat-button-ripple-round"
+          matripple=""
+          ng-reflect-centered="false"
+          ng-reflect-disabled="false"
+          ng-reflect-trigger="[object HTMLButtonElement]"
+        />
+        <div
+          class="mat-button-focus-overlay"
+        />
+      </button>
+      <button
+        class="mat-focus-indicator mat-fab mat-button-base mat-accent"
+        disabled="true"
+        mat-fab=""
+        ng-reflect-disabled=""
+      >
+        <span
+          class="mat-button-wrapper"
+        >
+          Disabled
+        </span>
+        <div
+          class="mat-button-ripple mat-ripple mat-button-ripple-round"
+          matripple=""
+          ng-reflect-centered="false"
+          ng-reflect-disabled="true"
+          ng-reflect-trigger="[object HTMLButtonElement]"
+        />
+        <div
+          class="mat-button-focus-overlay"
+        />
+      </button>
+      <button
+        aria-label="Example icon-button with a heart icon"
+        class="mat-focus-indicator mat-fab mat-button-base mat-accent"
+        mat-fab=""
+      >
+        <span
+          class="mat-button-wrapper"
+        >
+          <mat-icon
+            aria-hidden="true"
+            class="mat-icon notranslate material-icons mat-icon-no-color"
+            role="img"
+          >
+            favorite
+          </mat-icon>
+        </span>
+        <div
+          class="mat-button-ripple mat-ripple mat-button-ripple-round"
+          matripple=""
+          ng-reflect-centered="false"
+          ng-reflect-disabled="false"
+          ng-reflect-trigger="[object HTMLButtonElement]"
+        />
+        <div
+          class="mat-button-focus-overlay"
+        />
+      </button>
+      <a
+        aria-disabled="false"
+        class="mat-focus-indicator mat-fab mat-button-base mat-accent"
+        mat-fab=""
+        routerlink="."
+        tabindex="0"
+      >
+        <span
+          class="mat-button-wrapper"
+        >
+          Link
+        </span>
+        <div
+          class="mat-button-ripple mat-ripple mat-button-ripple-round"
+          matripple=""
+          ng-reflect-centered="false"
+          ng-reflect-disabled="false"
+          ng-reflect-trigger=""
+        />
+        <div
+          class="mat-button-focus-overlay"
+        />
+      </a>
+    </div>
+    <h3>
+      Mini Fab Buttons
+    </h3>
+    <div
+      class="example-button-row"
+    >
+      <button
+        class="mat-focus-indicator mat-mini-fab mat-button-base mat-accent"
+        mat-mini-fab=""
+      >
+        <span
+          class="mat-button-wrapper"
+        >
+          Basic
+        </span>
+        <div
+          class="mat-button-ripple mat-ripple mat-button-ripple-round"
+          matripple=""
+          ng-reflect-centered="false"
+          ng-reflect-disabled="false"
+          ng-reflect-trigger="[object HTMLButtonElement]"
+        />
+        <div
+          class="mat-button-focus-overlay"
+        />
+      </button>
+      <button
+        class="mat-focus-indicator mat-mini-fab mat-button-base mat-primary"
+        color="primary"
+        mat-mini-fab=""
+        ng-reflect-color="primary"
+      >
+        <span
+          class="mat-button-wrapper"
+        >
+          Primary
+        </span>
+        <div
+          class="mat-button-ripple mat-ripple mat-button-ripple-round"
+          matripple=""
+          ng-reflect-centered="false"
+          ng-reflect-disabled="false"
+          ng-reflect-trigger="[object HTMLButtonElement]"
+        />
+        <div
+          class="mat-button-focus-overlay"
+        />
+      </button>
+      <button
+        class="mat-focus-indicator mat-mini-fab mat-button-base mat-accent"
+        color="accent"
+        mat-mini-fab=""
+        ng-reflect-color="accent"
+      >
+        <span
+          class="mat-button-wrapper"
+        >
+          Accent
+        </span>
+        <div
+          class="mat-button-ripple mat-ripple mat-button-ripple-round"
+          matripple=""
+          ng-reflect-centered="false"
+          ng-reflect-disabled="false"
+          ng-reflect-trigger="[object HTMLButtonElement]"
+        />
+        <div
+          class="mat-button-focus-overlay"
+        />
+      </button>
+      <button
+        class="mat-focus-indicator mat-mini-fab mat-button-base mat-warn"
+        color="warn"
+        mat-mini-fab=""
+        ng-reflect-color="warn"
+      >
+        <span
+          class="mat-button-wrapper"
+        >
+          Warn
+        </span>
+        <div
+          class="mat-button-ripple mat-ripple mat-button-ripple-round"
+          matripple=""
+          ng-reflect-centered="false"
+          ng-reflect-disabled="false"
+          ng-reflect-trigger="[object HTMLButtonElement]"
+        />
+        <div
+          class="mat-button-focus-overlay"
+        />
+      </button>
+      <button
+        class="mat-focus-indicator mat-mini-fab mat-button-base mat-accent"
+        disabled="true"
+        mat-mini-fab=""
+        ng-reflect-disabled=""
+      >
+        <span
+          class="mat-button-wrapper"
+        >
+          Disabled
+        </span>
+        <div
+          class="mat-button-ripple mat-ripple mat-button-ripple-round"
+          matripple=""
+          ng-reflect-centered="false"
+          ng-reflect-disabled="true"
+          ng-reflect-trigger="[object HTMLButtonElement]"
+        />
+        <div
+          class="mat-button-focus-overlay"
+        />
+      </button>
+      <button
+        aria-label="Example icon-button with a heart icon"
+        class="mat-focus-indicator mat-mini-fab mat-button-base mat-accent"
+        mat-mini-fab=""
+      >
+        <span
+          class="mat-button-wrapper"
+        >
+          <mat-icon
+            aria-hidden="true"
+            class="mat-icon notranslate material-icons mat-icon-no-color"
+            role="img"
+          >
+            favorite
+          </mat-icon>
+        </span>
+        <div
+          class="mat-button-ripple mat-ripple mat-button-ripple-round"
+          matripple=""
+          ng-reflect-centered="false"
+          ng-reflect-disabled="false"
+          ng-reflect-trigger="[object HTMLButtonElement]"
+        />
+        <div
+          class="mat-button-focus-overlay"
+        />
+      </button>
+      <a
+        aria-disabled="false"
+        class="mat-focus-indicator mat-mini-fab mat-button-base mat-accent"
+        mat-mini-fab=""
+        routerlink="."
+        tabindex="0"
+      >
+        <span
+          class="mat-button-wrapper"
+        >
+          Link
+        </span>
+        <div
+          class="mat-button-ripple mat-ripple mat-button-ripple-round"
+          matripple=""
+          ng-reflect-centered="false"
+          ng-reflect-disabled="false"
+          ng-reflect-trigger=""
+        />
+        <div
+          class="mat-button-focus-overlay"
+        />
+      </a>
+    </div>
+  </app-awesome-buttons>
+</storybook-dynamic-app-root>
+`;
+
 exports[`Storyshots Task Archived 1`] = `
 <storybook-dynamic-app-root
   cfr={[Function CodegenComponentFactoryResolver]}
